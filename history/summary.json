@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 132,
-    "timeWeek": 102,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 85,
+    "timeDay": 71,
+    "timeWeek": 100,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 802,
-    "timeWeek": 253,
-    "timeMonth": 230,
-    "timeYear": 230,
-    "dailyMinutesDown": {}
+    "time": 1148,
+    "timeDay": 8026,
+    "timeWeek": 2219,
+    "timeMonth": 1148,
+    "timeYear": 1148,
+    "dailyMinutesDown": {
+      "2022-06-23": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 230,
-    "timeWeek": 306,
-    "timeMonth": 329,
-    "timeYear": 329,
+    "time": 330,
+    "timeDay": 341,
+    "timeWeek": 323,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 501,
-    "timeWeek": 419,
-    "timeMonth": 369,
-    "timeYear": 369,
+    "time": 364,
+    "timeDay": 288,
+    "timeWeek": 403,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 371,
-    "timeWeek": 343,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 389,
+    "timeDay": 1469,
+    "timeWeek": 474,
+    "timeMonth": 389,
+    "timeYear": 389,
     "dailyMinutesDown": {}
   }
 ]
